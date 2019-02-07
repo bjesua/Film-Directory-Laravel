@@ -1,0 +1,16 @@
+.checkeado{
+    color: orange;
+}
+
+.media-slug{
+    border: 2px solid #f7f4f4;
+    padding: 10px;
+}
+.media-slug p{
+    font-size: 12px;
+}
+.comment-leave{
+    border: 1px solid #eeeeee;
+    padding: 7px;
+    border-radius: 7px;
+}
